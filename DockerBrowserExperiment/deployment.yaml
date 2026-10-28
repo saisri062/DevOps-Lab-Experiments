@@ -1,0 +1,21 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: browser-hello
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: browser-hello
+  template:
+    metadata:
+      labels:
+        app: browser-hello
+    spec:
+      containers:
+        - name: browser-hello
+          image: browser-hello:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 5000

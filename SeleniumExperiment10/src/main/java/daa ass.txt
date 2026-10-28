@@ -1,0 +1,35 @@
+
+Assignment-1
+
+
+1.	a) Explain the process of designing an algorithm. Give characteristics of an algorithm. 
+b) Explain asymptotic notations.
+2.	a.Illustrate the general method of divide and conquer technique. 
+ b. Write an algorithm for Binary search and discuss its complexity. 
+3.	Discuss the single – source shortest paths (i.e. Dijkstra’s) algorithm with suitable example and also find the time complexity.
+4.	Find an optimal solution to the knapsack instance n=7 objects and the capacity of knapsack m=15. The profits and weights of the objects are (P1, P2, P3, P4, P5, P6, P7) = (10, 5,15,7,6,18,3) (W1, W2, W3, W4, W5, W6, W7) = (2,3,5,7,1,4,1).
+5.	Draw an Optimal Binary Search Tree for n=4 identifiers (a1, a2, a3, a4) = (do, if, read, while) P(1:4)=(3,3,1,1) and Q(0:4)=(2,3,1,1,1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
